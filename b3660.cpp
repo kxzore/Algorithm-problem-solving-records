@@ -16,8 +16,9 @@ int main()
             cin>>x;
             if(x==0)a=1;
         }
-        if(a==1)cout<<"Yes\n";
-        else cout<<"No\n";
+        if(a==1)cout<<"yes\n";
+        else cout<<"no\n";
     }
     return 0;
+
 }
